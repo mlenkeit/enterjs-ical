@@ -1,0 +1,246 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Tri Tech Computers//node-icalendar//EN
+BEGIN:VEVENT
+SUMMARY:Asynchrone Programmierung 101\nGolo Roden (the native web)
+DESCRIPTION:http://www.enterjs.de/abstracts#asynchrone-programmierung
+DTSTART:20150618T073500Z
+DTEND:20150618T085000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rechtsfragen zum Cloud Computing\nChristine Payer (Kurz\, Pfitzer\,
+  Wolf & Partner)
+DESCRIPTION:http://www.enterjs.de/abstracts#rechtliches
+DTSTART:20150618T073500Z
+DTEND:20150618T085000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Docker für JavaScript-Entwickler\nPeter Roßbach (bee42 solutions)
+DESCRIPTION:http://www.enterjs.de/abstracts#docker
+DTSTART:20150618T073500Z
+DTEND:20150618T085000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Front-end Security in the world of thick apps and hardware APIs\nJo
+ e Pettersson (McKinsey & Company)
+DESCRIPTION:http://www.enterjs.de/abstracts#front-end-security
+DTSTART:20150618T092000Z
+DTEND:20150618T100500Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Enterprise-Anwendungen mit Angular.js - The good\, the bad\, and th
+ e ugly\nRalph Guderlei (eXXcellent solutions)
+DESCRIPTION:http://www.enterjs.de/abstracts#good-bad-ugly
+DTSTART:20150618T092000Z
+DTEND:20150618T100500Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deklarative Architektur mit funktionalen Streams\nGregor Elke (code
+ centric)
+DESCRIPTION:http://www.enterjs.de/abstracts#deklarative-architektur
+DTSTART:20150618T092000Z
+DTEND:20150618T100500Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JavaScript meets Cryptography - Einführung in die WebCrypto API\nC
+ hristoph Iserlohn (innoQ)
+DESCRIPTION:http://www.enterjs.de/abstracts#javascript-meets-cryptography
+DTSTART:20150618T101500Z
+DTEND:20150618T110000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Event-Sourcing your AngularJS applications\nMaurice de Beijer (ABL 
+ - The Problem Solver)
+DESCRIPTION:http://www.enterjs.de/abstracts#event-sourcing
+DTSTART:20150618T101500Z
+DTEND:20150618T110000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Komplex\, aber schnell! Wie kriegen wir unsere Web-Frontends in den
+  Griff?\nAlexander Wilden (aixigo)
+DESCRIPTION:http://www.enterjs.de/abstracts#laxarjs
+DTSTART:20150618T101500Z
+DTEND:20150618T110000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Keynote: Datacenter Automation for the JavaScript Developer\nMitche
+ ll Hashimoto (HashiCorp)
+DESCRIPTION:http://www.enterjs.de/abstracts#keynote-1
+DTSTART:20150618T120000Z
+DTEND:20150618T124500Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Credit Card Walks Into A Bar\nCristiano Betta (Braintree)
+DESCRIPTION:http://www.enterjs.de/abstracts#credit-card
+DTSTART:20150618T125500Z
+DTEND:20150618T134000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECMAScript 2015 - Die Neuerungen\nArno Hollosi (Campus 02)
+DESCRIPTION:http://www.enterjs.de/abstracts#es2015
+DTSTART:20150618T125500Z
+DTEND:20150618T134000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Fluid Architecture\nAlex Fernández (MediaSmart Mobile)
+DESCRIPTION:http://www.enterjs.de/abstracts#fluid-architecture
+DTSTART:20150618T125500Z
+DTEND:20150618T134000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Death to Passwords\nTim Messerschmidt (PayPal\, Braintree)
+DESCRIPTION:http://www.enterjs.de/abstracts#death-to-passwords
+DTSTART:20150618T135000Z
+DTEND:20150618T143500Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JavaScript von morgen schon heute?\nPhilipp Burgmer (WeigleWilczek)
+DESCRIPTION:http://www.enterjs.de/abstracts#JS-von-morgen
+DTSTART:20150618T135000Z
+DTEND:20150618T143500Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mit einer Full-Stack-Plattform schneller zum Ziel: Wakanda in der P
+ raxis\nPatrick Pötschke (Quantus Software)
+DESCRIPTION:http://www.enterjs.de/abstracts#wakanda
+DTSTART:20150618T135000Z
+DTEND:20150618T143500Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Node.js als Basis-Backendtechnologie\nChristian Ulbrich (Zalari)
+DESCRIPTION:http://www.enterjs.de/abstracts#nodejs-als-basis
+DTSTART:20150618T150500Z
+DTEND:20150618T155000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Was bringt Angular 2.0?\nRobin Böhm (Symetics)
+DESCRIPTION:http://www.enterjs.de/abstracts#angular-2
+DTSTART:20150618T150500Z
+DTEND:20150618T155000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Event-getriebene Programmierung und Architektur\nMarco Emmrich (web
+ masters akademie)
+DESCRIPTION:http://www.enterjs.de/abstracts#event-getriebene-programmierung
+DTSTART:20150618T150500Z
+DTEND:20150618T155000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Node.js Security\nSebastian Springer (Mayflower)
+DESCRIPTION:http://www.enterjs.de/abstracts#node-security
+DTSTART:20150618T160000Z
+DTEND:20150618T164500Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Web components: Warum die Zukunft des Web heute beginnt\nMartin Nau
+ mann (Archilogic)
+DESCRIPTION:http://www.enterjs.de/abstracts#web-components
+DTSTART:20150618T160000Z
+DTEND:20150618T164500Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Polymer & ES 2015 in der Praxis\nLars Gersmann (content management 
+ ag)
+DESCRIPTION:http://www.enterjs.de/abstracts#polymer
+DTSTART:20150619T070000Z
+DTEND:20150619T081500Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Testing unchained\nDominik Jungowski (inovex)
+DESCRIPTION:http://www.enterjs.de/abstracts#testing-unchained
+DTSTART:20150619T070000Z
+DTEND:20150619T081500Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Continuous Integration für das Frontend\nBastian Krol (codecentric
+ )
+DESCRIPTION:http://www.enterjs.de/abstracts#continuous-integration
+DTSTART:20150619T070000Z
+DTEND:20150619T081500Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Message Queues - The infrastructural glue\nJulian Gruber (NowSecure
+ )
+DESCRIPTION:http://www.enterjs.de/abstracts#message-queues
+DTSTART:20150619T084500Z
+DTEND:20150619T093000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JavaScript Unit-Tests und Oberflächentests mit Karma und Protracto
+ r\nJohannes Hoppe (HAUS HOPPE - ITS)
+DESCRIPTION:http://www.enterjs.de/abstracts#unit-und-oberflaechentests
+DTSTART:20150619T084500Z
+DTEND:20150619T093000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pragmatic Gulp\nLars Gersmann (content management ag)
+DESCRIPTION:http://www.enterjs.de/abstracts#pragmatic-gulp
+DTSTART:20150619T084500Z
+DTEND:20150619T093000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tales from the crypt: JavaScript & the Internet of Things\nSebastia
+ n Golasch (Deutsche Telekom)
+DESCRIPTION:http://www.enterjs.de/abstracts#IoT
+DTSTART:20150619T094000Z
+DTEND:20150619T102500Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Responsive Testing\nMartin Reinhardt (Holisticon)
+DESCRIPTION:http://www.enterjs.de/abstracts#responsive-testing
+DTSTART:20150619T094000Z
+DTEND:20150619T102500Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Einstieg in React\nRoberto Bez (HolidayCheck)
+DESCRIPTION:http://www.enterjs.de/abstracts#react
+DTSTART:20150619T122000Z
+DTEND:20150619T130500Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kosteneffiziente Qualitätssicherung mit virtuellen Hardware-Labs\n
+ Oliver Arafat (AWS)
+DESCRIPTION:http://www.enterjs.de/abstracts#kosteneffiziente-qualitaetssich
+ erung
+DTSTART:20150619T122000Z
+DTEND:20150619T130500Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flux - Architektur für React\nOliver Zeigermann
+DESCRIPTION:http://www.enterjs.de/abstracts#flux
+DTSTART:20150619T133500Z
+DTEND:20150619T142000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TDD mit Google Spreadsheet oder: Wie ich Kids und Managern TDD beib
+ rachte\nWolfram Kriesing (uxebu)
+DESCRIPTION:http://www.enterjs.de/abstracts#tdd-mit-google
+DTSTART:20150619T133500Z
+DTEND:20150619T142000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TypeScript: JavaScript on Steroids\nKai Tödter (Siemens)
+DESCRIPTION:http://www.enterjs.de/abstracts#typescript
+DTSTART:20150619T133500Z
+DTEND:20150619T142000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meteor - die reaktive Full-Stack-JavaScript-Plattform\nNiko Köbler
+DESCRIPTION:http://www.enterjs.de/abstracts#meteor
+DTSTART:20150619T143000Z
+DTEND:20150619T151500Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Local Storage de luxe oder was noch zu speichern war\nJan Petzold (
+ Westernacher Products & Services)
+DESCRIPTION:http://www.enterjs.de/abstracts#local-storage
+DTSTART:20150619T143000Z
+DTEND:20150619T151500Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Von 0 auf 100 in einer Sekunde\nÁdám Béres-Deák (Autoscout24)
+DESCRIPTION:http://www.enterjs.de/abstracts#von-0-auf-100
+DTSTART:20150619T143000Z
+DTEND:20150619T151500Z
+END:VEVENT
+END:VCALENDAR
