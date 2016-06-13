@@ -1,0 +1,434 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Tri Tech Computers//node-icalendar//EN
+BEGIN:VEVENT
+SUMMARY:JavaScript für klassische OO-Entwickler
+DESCRIPTION:https://www.enterjs.de/abstracts.html#js-fuer-oo-entwickler
+DTSTART:20160614T090000Z
+DTEND:20160614T160000Z
+CATEGORIES:ejs16
+LOCATION:Darmstadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECMAScript 2015 in der Praxis
+DESCRIPTION:https://www.enterjs.de/abstracts.html#ecmascript-2015-in-der-pr
+ axis
+DTSTART:20160614T090000Z
+DTEND:20160614T160000Z
+CATEGORIES:ejs16
+LOCATION:Darmstadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Entwickeln mit AngularJS
+DESCRIPTION:https://www.enterjs.de/abstracts.html#entwickeln-mit-angularjs
+DTSTART:20160614T090000Z
+DTEND:20160614T160000Z
+CATEGORIES:ejs16
+LOCATION:Darmstadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Webanwendungen mit React entwickeln
+DESCRIPTION:https://www.enterjs.de/abstracts.html#worksop-react
+DTSTART:20160614T090000Z
+DTEND:20160614T160000Z
+CATEGORIES:ejs16
+LOCATION:Darmstadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Einstieg in Node.js
+DESCRIPTION:https://www.enterjs.de/abstracts.html#einstieg-in-nodejs
+DTSTART:20160614T090000Z
+DTEND:20160614T160000Z
+CATEGORIES:ejs16
+LOCATION:Darmstadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Event-getriebene Entwicklung und Architektur
+DESCRIPTION:https://www.enterjs.de/abstracts.html#event-getriebene-entwickl
+ ung
+DTSTART:20160614T090000Z
+DTEND:20160614T160000Z
+CATEGORIES:ejs16
+LOCATION:Darmstadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Don't be the next Ashley Madison: Penetrationstests für Entwickler
+DESCRIPTION:https://www.enterjs.de/abstracts.html#workshop-penetrationstest
+ s
+DTSTART:20160614T090000Z
+DTEND:20160614T160000Z
+CATEGORIES:ejs16
+LOCATION:Darmstadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Learn ES6 by making failing tests pass
+DESCRIPTION:https://www.enterjs.de/abstracts.html#learn-es6-by-making-faili
+ ng-tests-pass
+DTSTART:20160615T073500Z
+DTEND:20160615T085000Z
+CATEGORIES:ejs16
+LOCATION:Darmstadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein Ein- und Überblick in die disruptive Welt der WebRTC Data Chan
+ nels
+DESCRIPTION:https://www.enterjs.de/abstracts.html#ein-ein-und-überblick-in
+ -die-disruptive-welt-der-webrtc-data-channels
+DTSTART:20160615T073500Z
+DTEND:20160615T085000Z
+CATEGORIES:ejs16
+LOCATION:Darmstadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mit Node.js durchs Microservice-Land
+DESCRIPTION:https://www.enterjs.de/abstracts.html#mit-nodejs-durchs-microse
+ rvice-land
+DTSTART:20160615T073500Z
+DTEND:20160615T085000Z
+CATEGORIES:ejs16
+LOCATION:Darmstadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Babel: ES7 and beyond
+DESCRIPTION:https://www.enterjs.de/abstracts.html#es7-and-beyond
+DTSTART:20160615T092000Z
+DTEND:20160615T100500Z
+CATEGORIES:ejs16
+LOCATION:Darmstadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JavaScript + Java = TypeScript
+DESCRIPTION:https://www.enterjs.de/abstracts.html#javascript-java-typescrip
+ t
+DTSTART:20160615T092000Z
+DTEND:20160615T100500Z
+CATEGORIES:ejs16
+LOCATION:Darmstadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vom No- zum Full-Stack-Entwickler mit dem MEAN-Stack
+DESCRIPTION:https://www.enterjs.de/abstracts.html#mean-stack
+DTSTART:20160615T092000Z
+DTEND:20160615T100500Z
+CATEGORIES:ejs16
+LOCATION:Darmstadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OnConnectionLost: Das Leben einer Offline-Webapplikation
+DESCRIPTION:https://www.enterjs.de/abstracts.html#onconnectionlost-das-lebe
+ n-einer-offline-webapplikation
+DTSTART:20160615T101500Z
+DTEND:20160615T110000Z
+CATEGORIES:ejs16
+LOCATION:Darmstadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erste Schritte mit Angular 2: Components\, Directives\, Templates
+DESCRIPTION:https://www.enterjs.de/abstracts.html#erste-schritte-mit-angula
+ r-2
+DTSTART:20160615T101500Z
+DTEND:20160615T110000Z
+CATEGORIES:ejs16
+LOCATION:Darmstadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Entwicklung von Web-Applikationen mit dem Omnis Studio JavaScript C
+ lient
+DESCRIPTION:https://www.enterjs.de/abstracts.html#omnis1
+DTSTART:20160615T101500Z
+DTEND:20160615T110000Z
+CATEGORIES:ejs16
+LOCATION:Darmstadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Keynote: Dismantling Monoliths: using microservices and continuous\
+ ndelivery at the BBC
+DESCRIPTION:https://www.enterjs.de/abstracts.html#keynote-1
+DTSTART:20160615T120000Z
+DTEND:20160615T124500Z
+CATEGORIES:ejs16
+LOCATION:Darmstadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Was man alles ohne JavaScript machen kann
+DESCRIPTION:https://www.enterjs.de/abstracts.html#ohne-javascript
+DTSTART:20160615T125500Z
+DTEND:20160615T134000Z
+CATEGORIES:ejs16
+LOCATION:Darmstadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AngularJS-Projekte sicher auf Angular 2 migrieren
+DESCRIPTION:https://www.enterjs.de/abstracts.html#angularjs-projekte-sicher
+ -auf-angular-2-migrieren
+DTSTART:20160615T125500Z
+DTEND:20160615T134000Z
+CATEGORIES:ejs16
+LOCATION:Darmstadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reactive Programming
+DESCRIPTION:https://www.enterjs.de/abstracts.html#reactive-programming
+DTSTART:20160615T125500Z
+DTEND:20160615T134000Z
+CATEGORIES:ejs16
+LOCATION:Darmstadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Enter Frontend Localization – Fallstricke und Lösungsansätze
+DESCRIPTION:https://www.enterjs.de/abstracts.html#enter-frontend-localizati
+ on
+DTSTART:20160615T135000Z
+DTEND:20160615T143500Z
+CATEGORIES:ejs16
+LOCATION:Darmstadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Web-Apps in spezieller Umgebung: Die Neuentwicklung des dm-Servicep
+ unkts
+DESCRIPTION:https://www.enterjs.de/abstracts.html#dm-servicepunkt
+DTSTART:20160615T135000Z
+DTEND:20160615T143500Z
+CATEGORIES:ejs16
+LOCATION:Darmstadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Progressive Web Apps
+DESCRIPTION:https://www.enterjs.de/abstracts.html#inovex1
+DTSTART:20160615T135000Z
+DTEND:20160615T143500Z
+CATEGORIES:ejs16
+LOCATION:Darmstadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tag Managers – bridging marketing and dev
+DESCRIPTION:https://www.enterjs.de/abstracts.html#tag-managers
+DTSTART:20160615T150500Z
+DTEND:20160615T155000Z
+CATEGORIES:ejs16
+LOCATION:Darmstadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Data-Flow-Patterns in Angular 2
+DESCRIPTION:https://www.enterjs.de/abstracts.html#data-flow-patterns
+DTSTART:20160615T150500Z
+DTEND:20160615T155000Z
+CATEGORIES:ejs16
+LOCATION:Darmstadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Das Deployment von JavaScript- und Node.js-Anwendungen beschleunige
+ n
+DESCRIPTION:https://www.enterjs.de/abstracts.html#deployment
+DTSTART:20160615T150500Z
+DTEND:20160615T155000Z
+CATEGORIES:ejs16
+LOCATION:Darmstadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Developer's guide to accessible DOM scripting
+DESCRIPTION:https://www.enterjs.de/abstracts.html#accessible-dom-scripting
+DTSTART:20160615T160000Z
+DTEND:20160615T164500Z
+CATEGORIES:ejs16
+LOCATION:Darmstadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angular 2 Change Detection erklärt
+DESCRIPTION:https://www.enterjs.de/abstracts.html#angular-2-change-detectio
+ n
+DTSTART:20160615T160000Z
+DTEND:20160615T164500Z
+CATEGORIES:ejs16
+LOCATION:Darmstadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:E2E-Tests - Ein Leben nach Page Objects
+DESCRIPTION:https://www.enterjs.de/abstracts.html#sprint-eins
+DTSTART:20160615T160000Z
+DTEND:20160615T164500Z
+CATEGORIES:ejs16
+LOCATION:Darmstadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:10 Jahre Architekturwandel – ein Praxisbericht
+DESCRIPTION:https://www.enterjs.de/abstracts.html#10-jahre-architekturwande
+ l–ein-praxisbericht
+DTSTART:20160616T070000Z
+DTEND:20160616T074500Z
+CATEGORIES:ejs16
+LOCATION:Darmstadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Your code will explode
+DESCRIPTION:https://www.enterjs.de/abstracts.html#your-code-will-explode
+DTSTART:20160616T070000Z
+DTEND:20160616T074500Z
+CATEGORIES:ejs16
+LOCATION:Darmstadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Requirements Engineering in der agilen Entwicklung
+DESCRIPTION:https://www.enterjs.de/abstracts.html#requirements-engineering
+DTSTART:20160616T070000Z
+DTEND:20160616T074500Z
+CATEGORIES:ejs16
+LOCATION:Darmstadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Insights – User Experience Design
+DESCRIPTION:https://www.enterjs.de/abstracts.html#ux-design
+DTSTART:20160616T075500Z
+DTEND:20160616T084000Z
+CATEGORIES:ejs16
+LOCATION:Darmstadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Effective JavaScript Debugging with Chrome's Developer Tools
+DESCRIPTION:https://www.enterjs.de/abstracts.html#effective-javascript-debu
+ gging
+DTSTART:20160616T075500Z
+DTEND:20160616T084000Z
+CATEGORIES:ejs16
+LOCATION:Darmstadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Web Components – das unbekannte Wesen aus dem Browser
+DESCRIPTION:https://www.enterjs.de/abstracts.html#web-components
+DTSTART:20160616T075500Z
+DTEND:20160616T084000Z
+CATEGORIES:ejs16
+LOCATION:Darmstadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Webanwendungen mit React entwickeln
+DESCRIPTION:https://www.enterjs.de/abstracts.html#webanwendungen-mit-react-
+ entwickeln
+DTSTART:20160616T091000Z
+DTEND:20160616T095500Z
+CATEGORIES:ejs16
+LOCATION:Darmstadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Don't be the next Ashley Madison: Penetrationstests für Entwickler
+DESCRIPTION:https://www.enterjs.de/abstracts.html#penetrationstests
+DTSTART:20160616T091000Z
+DTEND:20160616T095500Z
+CATEGORIES:ejs16
+LOCATION:Darmstadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Polymer: Das moderne Webanwendungsframework
+DESCRIPTION:https://www.enterjs.de/abstracts.html#polymer
+DTSTART:20160616T091000Z
+DTEND:20160616T095500Z
+CATEGORIES:ejs16
+LOCATION:Darmstadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reactospective
+DESCRIPTION:https://www.enterjs.de/abstracts.html#reactospective
+DTSTART:20160616T100500Z
+DTEND:20160616T105000Z
+CATEGORIES:ejs16
+LOCATION:Darmstadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hansel & Gretel do TLS
+DESCRIPTION:https://www.enterjs.de/abstracts.html#hansel-gretel-do-tls
+DTSTART:20160616T100500Z
+DTEND:20160616T105000Z
+CATEGORIES:ejs16
+LOCATION:Darmstadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Continuous Integration for Fun and Profit
+DESCRIPTION:https://www.enterjs.de/abstracts.html#inovex2
+DTSTART:20160616T100500Z
+DTEND:20160616T105000Z
+CATEGORIES:ejs16
+LOCATION:Darmstadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Keynote: The npm workflow
+DESCRIPTION:https://www.enterjs.de/abstracts.html#keynote-2
+DTSTART:20160616T115000Z
+DTEND:20160616T123500Z
+CATEGORIES:ejs16
+LOCATION:Darmstadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:React mit GraphQL und Relay: Data-Binding 2.0
+DESCRIPTION:https://www.enterjs.de/abstracts.html#react-mit-graphql
+DTSTART:20160616T124500Z
+DTEND:20160616T133000Z
+CATEGORIES:ejs16
+LOCATION:Darmstadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Performance Issues and Optimizations in JavaScript
+DESCRIPTION:https://www.enterjs.de/abstracts.html#performance-issues
+DTSTART:20160616T124500Z
+DTEND:20160616T133000Z
+CATEGORIES:ejs16
+LOCATION:Darmstadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Backend-less Development revisited
+DESCRIPTION:https://www.enterjs.de/abstracts.html#backend-less-development-
+ revisited
+DTSTART:20160616T124500Z
+DTEND:20160616T133000Z
+CATEGORIES:ejs16
+LOCATION:Darmstadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Redux\, der Zustandscontainer für Single Page Apps
+DESCRIPTION:https://www.enterjs.de/abstracts.html#redux
+DTSTART:20160616T135500Z
+DTEND:20160616T144000Z
+CATEGORIES:ejs16
+LOCATION:Darmstadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Serverless Mobile Applications mit dem Omnis Studio JavaScript Clie
+ nt
+DESCRIPTION:https://www.enterjs.de/abstracts.html#omnis2
+DTSTART:20160616T135500Z
+DTEND:20160616T144000Z
+CATEGORIES:ejs16
+LOCATION:Darmstadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JavaScript for Cyborgs
+DESCRIPTION:https://www.enterjs.de/abstracts.html#javascript-for-cyborgs
+DTSTART:20160616T135500Z
+DTEND:20160616T144000Z
+CATEGORIES:ejs16
+LOCATION:Darmstadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ReactNative
+DESCRIPTION:https://www.enterjs.de/abstracts.html#react-native
+DTSTART:20160616T145000Z
+DTEND:20160616T153500Z
+CATEGORIES:ejs16
+LOCATION:Darmstadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kontrolle mit Hash? Deep Dive in Git!
+DESCRIPTION:https://www.enterjs.de/abstracts.html#git
+DTSTART:20160616T145000Z
+DTEND:20160616T153500Z
+CATEGORIES:ejs16
+LOCATION:Darmstadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wir drucken das Internet. Wir meinen es ernst. Und es ist sinnvoll.
+DESCRIPTION:https://www.enterjs.de/abstracts.html#wir-drucken-das-internet
+DTSTART:20160616T145000Z
+DTEND:20160616T153500Z
+CATEGORIES:ejs16
+LOCATION:Darmstadium
+END:VEVENT
+END:VCALENDAR

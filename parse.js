@@ -7,67 +7,49 @@ var tds, title, url, author, title, start, end, day;
 
 var ical = new icalendar.iCalendar();
 
-request('http://www.enterjs.de/', function (error, response, body) {
+request('http://www.enterjs.de/abstracts.html', function (error, response, body) {
   if (!error && response.statusCode == 200) {
     // console.log(body)
 
     $ = cheerio.load(body);
 
-    $('table.agenda').each(function(ti, table) {
+    $('.container-fluid>.row:not(:first-child)').each(function(ti, session) {
 
-      table = $(table);
-      title = table.parents('.row').prev().find('h2').text();
+      session = $(session);
+      id = session.find('div[id]').attr('id');
+      title = session.find('h2:first-child').text().trim();
+      timeInfoChunks = session.find('.address>p:last-child')
+        .text()
+        .replace(/\n/g, ',')
+        .split(',')
+        .map(function(chunk) {
+          return chunk.trim();
+        })
+        .filter(function(chunk) {
+          return !!chunk;
+        });
+      if (timeInfoChunks.length === 0) return;
 
-      if (!title.match(/Vorträge/)) return;
+      dateChunks = timeInfoChunks[1].split('.');
+      timeChunks = timeInfoChunks[2]
+        .split('-')
+        .map(function(chunk) {
+          return chunk.replace('h', '');
+        });
+      from = new Date(Date.parse(dateChunks[2]+'-'+dateChunks[1]+'-'+dateChunks[0]+' '+timeChunks[0]));
+      to = new Date(Date.parse(dateChunks[2]+'-'+dateChunks[1]+'-'+dateChunks[0]+' '+timeChunks[1]));
 
-      day = title.replace(/^Tag \d, /, '').replace(/:.*/, '');
-
-      // console.log(new Date(Date.parse(title.replace(/^Tag \d, /, '').replace(/:.*/, ''))).toISOString())
-
-      table.find('tr').each(function(i, tr) {
-
-        tds = $(tr).find('td');
-
-        var time = $(tds.get(0)).text();
-
-        if (time.match(/^Ab/)) {
-          start = end = time.replace(/^Ab /, '');
-        } else {
-          start = time.replace(/^(.*)-(.*)$/, '$1');
-          end = time.replace(/^(.*)-(.*)$/, '$2');
-        }
-
-        for (var i = 1; i < tds.length; i++) {
-
-          title = $(tds.get(i)).find('p:nth-child(1)').text().replace(/(^„|”$)/g, '');
-          author = $(tds.get(i)).find('p:nth-child(2)').text();
-          url = $(tds.get(i)).find('p:nth-child(1) a').attr('href');
-          if (url) {
-            url = 'http://www.enterjs.de' + $(tds.get(i)).find('p:nth-child(1) a').attr('href')
-          }
-
-          // console.log(new Date(Date.parse(title.replace(/^Tag \d, /, '').replace(/:.*/, '') + ' ' + start)).toISOString())
-
-
-          if (url && author) {
-            var event = ical.addComponent('VEVENT');
-            event.setSummary(title + '\n' + author);
-            event.setDescription(url);
-            event.setDate(new Date(Date.parse(day + ' ' + start)), new Date(Date.parse(day + ' ' + end)));
-          }
-        }
-
-
-
-        // console.log('******\n', $(tr).html());
-      });
-
+      var event = ical.addComponent('VEVENT');
+      event.setSummary(title);
+      event.setDescription('https://www.enterjs.de/abstracts.html#' + id);
+      event.setDate(from, to);
+      event.addProperty('CATEGORIES', 'ejs16');
+      event.setLocation('Darmstadium');
     });
 
     // console.log();
 
-
-    fs.writeFile("enterJS-2015.ics", ical.toString(), function(err) {
+    fs.writeFile("enterJS-2016.ics", ical.toString(), function(err) {
         if(err) {
             return console.log(err);
         }
